@@ -242,11 +242,11 @@ html {
 .services .srvss .srvs .ui {
   margin-top: -19px;
 }
-@media (min-width: 992px) {
+/* @media (min-width: 992px) {
   .services .srvss .srvs .ui {
     margin-top: 0px;
   }
-}
+} */
 @media (max-width: 767px) {
   .services .srvss .srvs .srv {
     flex-direction: column;
